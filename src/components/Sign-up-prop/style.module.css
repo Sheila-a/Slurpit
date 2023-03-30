@@ -10,6 +10,27 @@ width: 50%;
     margin: 15vh 6vh 10vh 6vh;
     padding: 3vh 6vh;
 }
+.card a {
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.p{
+    text-align: center;
+}
+.card p>span{
+color: #0A6EC7;
+/* font-weight: 600; */
+}
+
+.card p>span:hover {
+    cursor: pointer;
+    font-weight: 900;
+    transition: .3s ease;
+}
+
+
 
 .title{
     text-align: center;
@@ -52,4 +73,5 @@ width: 50%;
 .btn:hover{
     background-color: #0A6EC7;
     cursor: pointer; 
+    transition: .5s ease;
 }
