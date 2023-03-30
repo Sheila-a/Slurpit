@@ -31,7 +31,7 @@ const Sup = () => {
         <input type="checkbox" name="remember" id="" />
         <label htmlFor="remember">Remember me</label>
       </div>
-      <Button className={design.btn}/>
+      <Button className={design.btn} name="Continue"/>
       </div>
       
     </div>

@@ -7,7 +7,7 @@ width: 50%;
 .card{
     background-color: #fff;
     border-radius: 20px;
-    margin: 5vh;
+    margin: 15vh 6vh 10vh 6vh;
     padding: 3vh 6vh;
 }
 
@@ -36,6 +36,20 @@ width: 50%;
     width: 93%;
 }
 
+.fields input:focus{
+    border: 2px solid #9BC4E8;
+    outline: none;
+}
+
 .btn {
     background-color: #9BC4E8;
+    margin-top: 10vh;
+    color: #fff;
+    width: 100%;
+    /* padding: 15px 30px; */
+}
+
+.btn:hover{
+    background-color: #0A6EC7;
+    cursor: pointer; 
 }
