@@ -1,0 +1,41 @@
+.cont {
+    background-color: #f6f5f5;
+width: 50%;
+
+}
+ 
+.card{
+    background-color: #fff;
+    border-radius: 20px;
+    margin: 5vh;
+    padding: 3vh 6vh;
+}
+
+.title{
+    text-align: center;
+}
+
+.title h2 {
+    margin-bottom: 0;
+}
+
+.fields{
+    margin-bottom: 3vh;
+}
+
+.fields p{
+    margin: 0;
+    margin-bottom: 2vh;
+    font-size: 12px;
+}
+
+.fields input {
+    border-radius: 10px;
+    border: 2px solid #EAE8EB ;
+    padding: 12px;
+    width: 93%;
+}
+
+.btn {
+    background-color: #9BC4E8;
+}
