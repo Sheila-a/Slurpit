@@ -1,0 +1,18 @@
+.cont {
+    width: 80%;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 6vh;
+    padding: 0
+    5vh;
+}
+
+.nav_right{
+    width: 10vw;
+    display: flex;
+    height: 6vh;
+    align-items: center;
+}
