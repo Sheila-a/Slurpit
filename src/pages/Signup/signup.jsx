@@ -7,7 +7,6 @@ const Signup = () => {
   return (
     <div className={design.cont}>
       <LSide/>
-
      <Sup/>
     </div>
   )
